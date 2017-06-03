@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GNotes</string>
+    <string name="Create_sample_data">Create sample data</string>
+    <string name="Delete_all_notes">Delete all notes</string>
+    <string name="all_deleted">all deleted!</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="new_note">new_note</string>
+    <string name="new_noteedit">new noteedit</string>
+    <string name="note_updated">note updated</string>
+</resources>
